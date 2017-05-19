@@ -1,4 +1,4 @@
-pythonlibrary
-=============
+python
+======
 
-Prebuilt Python library releases.
+Prebuilt Python library and packages for OpenCOR.
